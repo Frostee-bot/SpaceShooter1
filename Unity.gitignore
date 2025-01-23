@@ -1,0 +1,53 @@
+# Unity folders to exclude
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory captures and recordings
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Optional: Asset Store Tools plugin (uncomment if you want to exclude)
+/[Aa]ssets/AssetStoreTools*
+
+# Rider and VS cache directories
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+
+# Solution and project files
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash reports and temporary files
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds and Unity packages
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Optional: Remove Addressables exclusions if needed
